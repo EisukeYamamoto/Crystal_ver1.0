@@ -1,5 +1,6 @@
 # Crystal
-This game is the first game I developed using Unity. 
+This game is the first game I developed using Unity.   
+This game can be played at https://unityroom.com/games/crystal_shotgame. (WebGL)
 
 ## Demo movie
 ![ダウンロード](https://user-images.githubusercontent.com/51312413/95963641-e6ef3980-0e42-11eb-824e-b01b423b45c9.gif)
