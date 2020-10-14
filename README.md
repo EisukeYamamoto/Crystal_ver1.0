@@ -10,3 +10,17 @@ Enemies will be advancing from outside the stage, aiming at the crystals all at 
 Use the main character's cannon to scatter the enemies, and carry all the materia scattered across the stage within the time limit!
 For more information, try playing the in-game tutorial.
 The use of the mouse is recommended for this game.
+
+## Operation
+### Keyboard
+W : move forward
+S : move backwards
+A : turn to the left
+D : turn to the right
+R : reset your perspective
+P : pause
+
+### Mouse
+cursor : take aim
+left click : fire
+right click : viewpoint shift
