@@ -13,14 +13,14 @@ The use of the mouse is recommended for this game.
 
 ## Operation
 ### Keyboard
-W : move forward
-S : move backwards
-A : turn to the left
-D : turn to the right
-R : reset your perspective
-P : pause
+W : move forward  
+S : move backwards  
+A : turn to the left  
+D : turn to the right  
+R : reset your perspective  
+P : pause  
 
 ### Mouse
-cursor : take aim
-left click : fire
-right click : viewpoint shift
+cursor : take aim  
+left click : fire  
+right click : viewpoint shift  
